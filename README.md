@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some fun svg projects (e.g. https://draw.pup.codes/window )
+- 🌱 I’m currently learning nextJS, typescript, photoshop
+- 💬 Ask me about anything you want
+- 😄 Pronouns: He/Him
+
+![heypano's github stats](https://github-readme-stats.vercel.app/api?username=heypano&count_private=true)
+
 <!--
 **heypano/heypano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
