@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some fun svg projects (e.g. https://draw.pup.codes/window )
-- 🌱 I’m currently learning nextJS, typescript, photoshop
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/Him
 
