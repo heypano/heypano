@@ -2,10 +2,10 @@
 
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/Him
-
+<!--
 ![heypano's github stats](https://github-readme-stats.vercel.app/api?username=heypano&count_private=true)
 
-<!--
+
 **heypano/heypano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
